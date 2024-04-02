@@ -1,46 +1,37 @@
 export const navItems = [
     {
-        items: "Chart",
-        links: "https://www.dextools.io/app/en/ether/pair-explorer/0x04f0fdcbcea2b7cec978b86a416f3f2a3e98e1a1?t=1711303731571"
+        items: "Home",
+        links: "/"
     },
     {
-        items: "Blog",
-        links: "https://www.youtube.com/@PrintMining"
+        items: "Product",
+        links: "https://www.youtube.com/"
     },
     {
-        items: "Docs",
-        links: "https://docs.printmining.com/"
+        items: "Twitter",
+        links: "https://twitter.com/Sanjaysk2108"
     },
-    {
-        items: "Staking",
-        links: "https://t.me/printminingbot"
-    },
-    {
-        items: "Mining",
-        links: "https://t.me/printdepinrequestbot"
-    },
-
 ]
 
 export const projects = [
     {
-        title: "Print Vision",
-        subtitle: "Mining accessible for everyone ",
-        description: "Print Mining is a project founded by a group of crypto mining enthusiasts who want to make crypto mining accessible for everyone."
+        title: "Web3 Vault",
+        subtitle: "Decentralized Storage for the Modern Web",
+        description: "Web3 Vault is a decentralized storage solution built on the principles of Web3, providing secure and reliable storage for web applications and decentralized projects."
     },
     {
-        title: "Stake to Mine",
-        subtitle: "Earn rewards from miners",
-        description: "Through the use of the $PRINT token, you can stake and earn rewards generated directly from Print Mining miners."
+        title: "Sepolia Secure Storage",
+        subtitle: "Blockchain-Powered Data Protection",
+        description: "Sepolia Secure Storage leverages blockchain technology to offer unparalleled data protection and integrity, ensuring that your valuable information remains safe from unauthorized access and tampering."
     },
     {
-        title: "Mining Bot",
-        subtitle: "Mining accessible for everyone ",
-        description: "Our bot displays details about the Print Mining performance, estimated rewards over different time periods, and can even show details about each miner on an individual level."
+        title: "IPFS Explorer",
+        subtitle: "Navigating the InterPlanetary File System",
+        description: "IPFS Explorer is a user-friendly interface for exploring and interacting with the InterPlanetary File System, making it easy to upload, download, and manage files in a decentralized manner."
     },
     {
-        title: "Hire to Mine",
-        subtitle: "Mining accessible for everyone ",
-        description: "This service allows businesses, projects, and individuals to gain access to compute hardware to support their goals, objectives, and vision."
+        title: "Web3 Storage Expansion",
+        subtitle: "Scaling Your Storage Horizons",
+        description: "With Web3 Storage Expansion, you can effortlessly scale your storage capacity to meet the growing demands of your applications and projects, ensuring uninterrupted access to your data."
     }
 ];

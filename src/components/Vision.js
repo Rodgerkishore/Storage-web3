@@ -43,7 +43,7 @@ const Vision = () => {
                         <div className="items-center justify-center flex">
                             <h1 className="text-4xl font-medium tracking-normal text-white ">
                                 Accessibility, Transparency and Commitment{' '}
-                                <span className="text-primary mr-2">Print Mining</span>{' '}
+                                <span className="text-primary mr-2">Print Storage</span>{' '}
                             </h1>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ const Vision = () => {
                     <div className="relative  order-1 md:order-2">
                         <div className="sticky  top-20 flex items-center justify-center ">
                             <Image
-                                src="/vision.svg"
+                                src="/1363.png"
                                 alt="image"
                                 width={600}
                                 height={400}

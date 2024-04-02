@@ -19,8 +19,8 @@ export default function Home() {
       </div>
 
       <Guide />
-      <Tables />
-      <Roadmap />
+
+
       <Footer />
     </main>
   );

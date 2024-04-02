@@ -40,8 +40,8 @@ const Navbar = () => {
                                     ))
                                 }
 
-                                <Link target="_blank" href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x64a5b80089c0fb4858a8c2ca9c2988a484539fd8&chain=mainnet" className='hover:shadow-custom border border-primary text-primary text-[16px] font-medium text-center rounded-[20px] py-2 px-6'>
-                                    Buy $PRINT
+                                <Link target="_blank" href="https://twitter.com/Sanjaysk2108" className='hover:shadow-custom border border-primary text-primary text-[16px] font-medium text-center rounded-[20px] py-2 px-6'>
+                                    Connect
                                 </Link>
 
 
@@ -72,8 +72,8 @@ const Navbar = () => {
                             <div className='mx-10 my-5 pb-5 flex items-center justify-center'>
 
 
-                                <Link target='_blank' href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x64a5b80089c0fb4858a8c2ca9c2988a484539fd8&chain=mainnet" className='flex items-center w-full bg-[#000000] justify-center   border border-primary text-primary text-[16px] font-medium  rounded-[20px]  py-1 px-1'>
-                                    Buy $Print <GoArrowUpRight size={23} className='text-primary' />
+                                <Link target='_blank' href="https://twitter.com/Sanjaysk2108" className='flex items-center w-full bg-[#000000] justify-center   border border-primary text-primary text-[16px] font-medium  rounded-[20px]  py-1 px-1'>
+                                    Connect<GoArrowUpRight size={23} className='text-primary' />
                                 </Link>
 
                             </div>
@@ -86,16 +86,18 @@ const Navbar = () => {
                     <div className='items-center  z-10' >
                         <div className='md:pt-[100px]'>
                             <div className=' flex items-center text-center justify-center text-[50px] md:text-[64px] font-medium leading-[72px]'>
-                                <h1 className='text-primary'>PRINT <span className='text-white'>MINING</span></h1>
+                                <h1 className='text-primary'>Web3 <span className='text-white'>Storage</span></h1>
                             </div>
-                            <p className=' text-center mt-3 text-tertiary text-[18px] md:text-[20px] leading-7 font-normal'>Uses Real World Assets (RWA) to mine cryptocurrency</p>
+                            <p className=' text-center mt-3 text-tertiary text-[18px] md:text-[20px] leading-7 font-normal'>
+                                Use Real World Assets, Store, and Access Your Data Securely.
+                            </p>
 
                             <div className='z-10 my-10 flex items-center justify-center space-x-3 md:gap-10'>
                                 <Link target='_blank' href="https://t.me/Print_Mining" className='hover:shadow-custom flex items-center justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
                                     Community <GoArrowUpRight size={23} className='text-white' />
                                 </Link>
                                 <Link href="https://t.me/printminingbot" target='_blank' className='hover:shadow-custom flex items-center  text-balance justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
-                                    Launch Bot <GoArrowUpRight size={23} className='text-white' />
+                                    Launch <GoArrowUpRight size={23} className='text-white' />
                                 </Link>
                             </div>
                         </div>
@@ -108,7 +110,7 @@ const Navbar = () => {
             </div>
             <div className="absolute inset-0 top-0 h-[70%] z-0">
                 <Canvas>
-                    <Stars radius={50} count={2000} factor={4} fade speed={2} />
+                    <Stars radius={100} count={4000} factor={6} fade speed={2} />
                 </Canvas>
             </div>
         </div >
