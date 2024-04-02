@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+
+.herobg{
+ background-image: url("/mask.svg");
+ background-position: center;
+ width: 100%;
+ background-repeat: no-repeat;
+ object-fit: cover;
+ background-size: cover;
+ 
+}
+
+
+
+
+
+.decenbg {
+    background: rgb(0,64,211);
+    background: radial-gradient(circle, rgba(244,85,0,1) 0%, rgba(0,0,0,1) 46%);
+    backdrop-filter: blur(10px); /* Adjust the blur value as needed */
+   /* Set minimum height to cover full viewport height */
+    height: auto; /* Allow height to expand as needed */
+    padding: 10px
+}
+
+
+.introbg {
+    background: rgb(0,64,211);
+    background: radial-gradient(circle, rgba(244,85,0,1) 0%, rgba(0,0,0,1) 46%);
+    backdrop-filter: blur(10px); /* Adjust the blur value as needed */
+    min-height: 100vh; /* Set minimum height to cover full viewport height */
+    height: auto; /* Allow height to expand as needed */
+    width: 100%;
+    
+}
+
+
+
+
+.maskbg{
+  background-image: url("/mask1.svg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+
+}
+
+
+.cardContainer{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0px;
+  
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 500px;
+    transform-origin: top;
+  }
+
+
+th, td {
+  border: 1px solid #F45500;
+}
+
+table{
+  border: 1px solid #F45500;
+  border-radius: 20px;
+}
+
+
+.footerbg{
+  background: linear-gradient(180deg, #0D0501 0%, #000000 75.13%);
+  background-image: url("/mask3.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+}
+
+.footerbgs{
+  background: linear-gradient(180deg, #0D0501 0%, #000000 75.13%);
+  background-image: url("/mask3.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+
+.rewardbg{
+  background: rgba(244, 85, 0, 0.2);
+}
