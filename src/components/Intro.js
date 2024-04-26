@@ -20,7 +20,7 @@ const Intro = () => {
                 <div class='flex flex-col divide-y-2 divide-primary md:flex-row md:divide-x-2 md:divide-y-0 items-center justify-between gap-4 py-20'>
                     <div className='flex items-center gap-3 md:p-5 '>
                         <Image src="/flexibility.svg" className='' alt="flexibility" width={120} height={100} />
-                        <h1 className='font-medium text-lg text-white'>Utilizing IPFS and the Sepolia blockchain <span className='text-tertiary ml-1'>for individuals to access the secure storage</span></h1>
+                        <h1 className='font-medium text-lg text-white'>Utilizing IPFS and the Polygon blockchain <span className='text-tertiary ml-1'>for individuals to access the secure storage</span></h1>
                     </div>
                     <div className='flex items-center gap-3 md:p-5 py-2'>
                         <Image src="/node.svg" className='' alt="node" width={120} height={100} />
