@@ -93,10 +93,10 @@ const Navbar = () => {
                             </p>
 
                             <div className='z-10 my-10 flex items-center justify-center space-x-3 md:gap-10'>
-                                <Link target='_blank' href="https://t.me/Print_Mining" className='hover:shadow-custom flex items-center justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
+                                <Link target='_blank' href="https://twitter.com/Sanjaysk2108" className='hover:shadow-custom flex items-center justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
                                     Community <GoArrowUpRight size={23} className='text-white' />
                                 </Link>
-                                <Link href="https://t.me/printminingbot" target='_blank' className='hover:shadow-custom flex items-center  text-balance justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
+                                <Link href="https://web3-storage-dapp-henna.vercel.app/" target='_blank' className='hover:shadow-custom flex items-center  text-balance justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
                                     Launch <GoArrowUpRight size={23} className='text-white' />
                                 </Link>
                             </div>
