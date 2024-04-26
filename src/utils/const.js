@@ -5,7 +5,7 @@ export const navItems = [
     },
     {
         items: "Product",
-        links: "https://www.youtube.com/"
+        links: "https://web3-storage-dapp-henna.vercel.app/"
     },
     {
         items: "Twitter",
@@ -20,9 +20,9 @@ export const projects = [
         description: "Web3 Vault is a decentralized storage solution built on the principles of Web3, providing secure and reliable storage for web applications and decentralized projects."
     },
     {
-        title: "Sepolia Secure Storage",
+        title: "Polygon Secure Storage",
         subtitle: "Blockchain-Powered Data Protection",
-        description: "Sepolia Secure Storage leverages blockchain technology to offer unparalleled data protection and integrity, ensuring that your valuable information remains safe from unauthorized access and tampering."
+        description: "Polygon Secure Storage leverages blockchain technology to offer unparalleled data protection and integrity, ensuring that your valuable information remains safe from unauthorized access and tampering."
     },
     {
         title: "IPFS Explorer",
