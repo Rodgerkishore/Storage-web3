@@ -70,7 +70,7 @@ const Footer = () => {
                         <div className='text-white py-5 md:py-0 flex items-center justify-center space-x-4 text-[16px] leading-4'>
 
                             <div>
-                                <Link href="" className='hover:text-primary text-white'>Product</Link>
+                                <Link href="https://web3-storage-dapp-henna.vercel.app/" className='hover:text-primary text-white'>Product</Link>
                             </div>
 
                             <div className='flex items-center space-x-3'>
