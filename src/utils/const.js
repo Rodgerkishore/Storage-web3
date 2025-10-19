@@ -5,7 +5,7 @@ export const navItems = [
     },
     {
         items: "Product",
-        links: "https://web3-storage-dapp-henna.vercel.app/"
+        links: "https://storage-app-zeta.vercel.app/"
     },
     {
         items: "Twitter",
