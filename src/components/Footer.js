@@ -75,7 +75,7 @@ const Footer = () => {
 
                             <div className='flex items-center space-x-3'>
 
-                                <Link href="https://twitter.com/Sanjaysk2108">
+                                <Link href="https://x.com/Kishore40572530?t=pS0WxhT86SvQ0hdIrTXonw&s=09">
                                     <RiTwitterXLine size={35} className='bg-primary hover:opacity-75 cursor-pointer rounded-full p-1 text-black' />
                                 </Link>
                             </div>
