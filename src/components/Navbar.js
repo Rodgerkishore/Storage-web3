@@ -40,7 +40,7 @@ const Navbar = () => {
                                     ))
                                 }
 
-                                <Link target="_blank" href="https://twitter.com/Sanjaysk2108" className='hover:shadow-custom border border-primary text-primary text-[16px] font-medium text-center rounded-[20px] py-2 px-6'>
+                                <Link target="_blank" href="https://x.com/Kishore40572530?t=pS0WxhT86SvQ0hdIrTXonw&s=09" className='hover:shadow-custom border border-primary text-primary text-[16px] font-medium text-center rounded-[20px] py-2 px-6'>
                                     Connect
                                 </Link>
 
@@ -72,7 +72,7 @@ const Navbar = () => {
                             <div className='mx-10 my-5 pb-5 flex items-center justify-center'>
 
 
-                                <Link target='_blank' href="https://twitter.com/Sanjaysk2108" className='flex items-center w-full bg-[#000000] justify-center   border border-primary text-primary text-[16px] font-medium  rounded-[20px]  py-1 px-1'>
+                                <Link target='_blank' href="https://x.com/Kishore40572530?t=pS0WxhT86SvQ0hdIrTXonw&s=09" className='flex items-center w-full bg-[#000000] justify-center   border border-primary text-primary text-[16px] font-medium  rounded-[20px]  py-1 px-1'>
                                     Connect<GoArrowUpRight size={23} className='text-primary' />
                                 </Link>
 
@@ -93,7 +93,7 @@ const Navbar = () => {
                             </p>
 
                             <div className='z-10 my-10 flex items-center justify-center space-x-3 md:gap-10'>
-                                <Link target='_blank' href="https://twitter.com/Sanjaysk2108" className='hover:shadow-custom flex items-center justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
+                                <Link target='_blank' href="https://x.com/Kishore40572530?t=pS0WxhT86SvQ0hdIrTXonw&s=09" className='hover:shadow-custom flex items-center justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
                                     Community <GoArrowUpRight size={23} className='text-white' />
                                 </Link>
                                 <Link href="https://web3-storage-dapp-henna.vercel.app/" target='_blank' className='hover:shadow-custom flex items-center  text-balance justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
