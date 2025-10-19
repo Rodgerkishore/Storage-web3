@@ -9,7 +9,7 @@ export const navItems = [
     },
     {
         items: "Twitter",
-        links: "https://twitter.com/Sanjaysk2108"
+        links: "https://x.com/Kishore40572530?t=pS0WxhT86SvQ0hdIrTXonw&s=09"
     },
 ]
 
