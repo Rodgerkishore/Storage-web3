@@ -96,7 +96,7 @@ const Navbar = () => {
                                 <Link target='_blank' href="https://x.com/Kishore40572530?t=pS0WxhT86SvQ0hdIrTXonw&s=09" className='hover:shadow-custom flex items-center justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
                                     Community <GoArrowUpRight size={23} className='text-white' />
                                 </Link>
-                                <Link href="https://web3-storage-dapp-henna.vercel.app/" target='_blank' className='hover:shadow-custom flex items-center  text-balance justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
+                                <Link href="https://storage-app-zeta.vercel.app/" target='_blank' className='hover:shadow-custom flex items-center  text-balance justify-center gap-2 border border-primary text-white text-[16px] font-medium text-center rounded-[20px] md:py-2 py-1 px-3 md:px-6'>
                                     Launch <GoArrowUpRight size={23} className='text-white' />
                                 </Link>
                             </div>
